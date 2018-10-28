@@ -1,2 +1,2 @@
 # FirstApp
-A Login app
+A Login App implemented using Android fragments
