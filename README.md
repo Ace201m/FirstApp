@@ -1,2 +1,2 @@
 # FirstApp
-A Login App implemented using Android fragments
+A Login App asked for username and password.
